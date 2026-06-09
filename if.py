@@ -7,6 +7,8 @@ horas_trabalhadas = float(input("Digite as horas trabalhadas: "))
 # Tomada de decisão (decisão baseada no valor da variável horas_trabalhadas)
 if (horas_trabalhadas >= 100):
     bonus = 500.00
+elif (horas_trabalhadas >= 50): # elif / Senão Se
+    bonus = 250.00
 else:
     bonus = 0
 
