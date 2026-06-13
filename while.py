@@ -1,8 +1,9 @@
 # While / Enquanto
 
-senha = input("Digite a senha: ")
-
-while senha == "1234" :
-    print("Senha correta")
-else:
-    print("Senha incorreta")
+while True:
+    senha = input("Digite a senha: ")
+    if senha == "1234":
+        print("Senha correta")
+        break
+    else:
+        print("Senha incorreta")
