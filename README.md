@@ -1,6 +1,6 @@
 # Python Examples Playground
 
-A hands-on collection of Python scripts covering fundamental programming concepts. Each file is self-contained and focuses on a single concept, with comments in both Portuguese and English to make them accessible to a broad audience.
+A hands-on collection of Python scripts covering fundamental programming concepts. Each file is self-contained and focuses on a single concept, with comments in Portuguese.
 
 ## Examples
 
